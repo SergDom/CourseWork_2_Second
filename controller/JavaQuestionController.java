@@ -12,7 +12,7 @@ import javax.websocket.server.PathParam;
 import java.util.Collection;
 
 @RestController
-@RequestMapping("/java")
+@RequestMapping("/exam/java")
 public class JavaQuestionController {
 
     private final QuestionService service;
